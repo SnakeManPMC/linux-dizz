@@ -1,0 +1,19 @@
+
+        .-----------------------------------.
+        | Dizz (c) Snake Man, PMC 1999-2015 |
+        `-----------------------------------'
+
+    History of Dizz the file_id.diz grabber
+   -----------------------------------------
+  + added feature,  - general comment,  * bugfix
+
+
+    
+05-25-00: / v0.2b
+===============
+    - noticed daydream TODO list has diz extractor mentioned, so... :)
+      fixed the code, made it more userfriendly.
+
+00-00-00: / v0.1
+===============
+    - done this basically working, nothing nice, just working.

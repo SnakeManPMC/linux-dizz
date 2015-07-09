@@ -1,0 +1,21 @@
+	
+      .-------------------------------------------------.	        
+      | INSTRUCTIONS FOR Dizz the file_id.diz grabber ! |
+      `-------------------------------------------------'	
+
+Running the dizzy grabber is quite easy.
+    
+    dizz /path/to/the/zip/files/
+    
+make sure you end the path with '/' character, or it will fuckup.
+
+By that command line you extract file_id.diz / filename and filesize from every
+*.zip file included in the directory. Then dizz will create file directory.diz
+into the current dir you are at, where it writes full and complete DD filelist.
+
+Cant make that any more easier, huh? ;)
+
+
+Snake Man, PMC.
+snakeman@phnet.fi
+www.nekromantix.com/pmc
